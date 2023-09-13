@@ -15,15 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+| [![Victor Tyavbee](https://img.shields.io/badge/Victor-Tyavbee-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=iamtsquare07&color=green) | ![Followers](https://img.shields.io/github/followers/iamtsquare07) | ![Stars](https://img.shields.io/github/stars/iamtsquare07?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --| --|
+
 Welcome to my GitHub profile, hope you are having a good day.
 I am Victor, a full-stack web developer and blockchain developer.
 
 Some interesting things about me;
 - 📚 I am open to new knowledge, I believe that is the only way to achieve excellence.
 - 🕶️ I work in dark mode😎
-- ✊ I am open to collaboration on any web or blockchain blockchain.
-- ⭐ You can help me by offering me a challenging task, I love challenges.
-- 🫠 You will be disappointed if you hire me.
+- ✊ I am open to collaboration on any web or blockchain projects.
+- ⭐ Always curious to learn more.
+- 🫠 You will not be disappointed if you hire me.
 - 🙌🏾 Fun Fact: We can be tech buddies.
 
 Let's Connect
