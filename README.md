@@ -26,5 +26,5 @@ Some interesting things about me;
 - 🫠 You will be disappointed if you hire me.
 - 🙌🏾 Fun Fact: We can be tech buddies.
 
-We can connect
-https://twitter.com/Iamtsquare07
+Let's connect
+<button><a href="https://twitter.com/Iamtsquare07">Twitter</a></button>
