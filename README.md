@@ -47,5 +47,3 @@ Some interesting things about me;
 | [![Victor Tyavbee](https://img.shields.io/badge/Victor-Tyavbee-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=iamtsquare07&color=green) | ![Followers](https://img.shields.io/github/followers/iamtsquare07) | ![Stars](https://img.shields.io/github/stars/iamtsquare07?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
-| [![Diram Bora](https://img.shields.io/badge/DIRAM-BORA-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=dirambora&color=green) | ![Followers](https://img.shields.io/github/followers/dirambora) | ![Stars](https://img.shields.io/github/stars/dirambora?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
---| --| --| --|
