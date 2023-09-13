@@ -19,7 +19,7 @@ Welcome to my GitHub profile, hope you are having a good day.
 I am Victor, a full-stack web developer and blockchain developer.
 
 Some interesting things about me;
-- 📚 Always open to new knowledge, I believe that it's the only way to achieve excellence.
+- 📚 Always open to new knowledge, I believe it's the only way to achieve excellence.
 - 🕶️ Loves to work in dark mode😎
 - ✊ Open to collaboration on any web or blockchain projects.
 - ⭐ Always curious to learn more.
@@ -39,10 +39,11 @@ Some interesting things about me;
 </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=iamtsquare07&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dirambora&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtsquare07&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=iamtsquare07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dirambora&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtsquare07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+<br/>
+<br/>
 | [![Victor Tyavbee](https://img.shields.io/badge/Victor-Tyavbee-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=iamtsquare07&color=green) | ![Followers](https://img.shields.io/github/followers/iamtsquare07) | ![Stars](https://img.shields.io/github/stars/iamtsquare07?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
