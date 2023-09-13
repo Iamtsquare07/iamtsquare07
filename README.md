@@ -25,3 +25,6 @@ Some interesting things about me;
 - ⭐ You can help me by offering me a challenging task, I love challenges.
 - 🫠 You will be disappointed if you hire me.
 - 🙌🏾 Fun Fact: We can be tech buddies.
+
+We can connect
+https://twitter.com/Iamtsquare07
