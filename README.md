@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub profile, hope you are having a good day.
+I am Victor, a full-stack web developer and blockchain developer.
+
+Some interesting things about me;
+- 📚 I am open to new knowledge, I believe that is the only way to achieve excellence.
+- 🕶️ I work in dark mode😎
+- ✊ I am open to collaboration on any web or blockchain blockchain.
+- ⭐ You can help me by offering me a challenging task, I love challenges.
+- 🫠 You will be disappointed if you hire me.
+- 🙌🏾 Fun Fact: We can be tech buddies.
