@@ -26,5 +26,18 @@ Some interesting things about me;
 - 🫠 You will be disappointed if you hire me.
 - 🙌🏾 Fun Fact: We can be tech buddies.
 
-Let's connect
-<button><a href="https://twitter.com/Iamtsquare07">Twitter</a></button>
+Let's Connect
+<button><a href="">Twitter</a></button>
+<p align="left">
+<a href="https://twitter.com/Iamtsquare07">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/victor-tyavbee/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=iamtsquare07&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dirambora&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtsquare07&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
