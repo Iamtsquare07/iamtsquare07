@@ -1,3 +1,7 @@
+| [![VICTOR TYAVBEE](https://img.shields.io/badge/VICTOR-TYAVBEE-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=iamtsquare07&color=green) | ![Followers](https://img.shields.io/github/followers/iamtsquare07) | ![Stars](https://img.shields.io/github/stars/iamtsquare07?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --| --|
+
+
 ### Hi there 👋
 ## Why do Java developers wear glasses? Because they don't see sharp😜
 <!--
@@ -15,8 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile, hope you are having a good day.
+Welcome to my GitHub profile, you are awesome.
 I am Victor, a full-stack web developer and blockchain developer.
+
+<div align=center> 
+         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;No+matter+how+bad+your+day+is,+always+remember+that+it+can+be+worst+😜+So+cheer+up;You+underestimate+your+potential,+you+are+really+awesome;We+can+know+each+other+if+you+connect+on+twitter;" alt="Headline" /> 
+     </div> 
 
 Some interesting things about me;
 - 📚 Always open to new knowledge, I believe it's the only way to achieve excellence.
@@ -42,8 +50,4 @@ Some interesting things about me;
 ![](https://github-readme-stats.vercel.app/api?username=iamtsquare07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dirambora&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtsquare07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-| [![VICTOR TYAVBEE](https://img.shields.io/badge/Victor-Tyavbee-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=iamtsquare07&color=green) | ![Followers](https://img.shields.io/github/followers/iamtsquare07) | ![Stars](https://img.shields.io/github/stars/iamtsquare07?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
---| --| --| --|
 
