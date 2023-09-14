@@ -23,7 +23,7 @@ Welcome to my GitHub profile, you are awesome.
 I am Victor, a full-stack web developer and blockchain developer.
 
 <div align=center> 
-         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;No+matter+how+bad+your+day+is,+always+remember+that+it+can+be+worst+😜+So+cheer+up;You+underestimate+your+potential,+you+are+really+awesome;We+can+know+each+other+if+you+connect+on+twitter;" alt="Headline" /> 
+         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=50&lines=+;No+matter+how+bad+your+day+is;Always+remember+that+it+can+be+worst+😜;So+cheer+up;You+underestimate+your+potential;You+are+really+awesome;We+can+know+each+other+better;if+you+connect+on+twitter;" alt="Headline" /> 
      </div> 
 
 Some interesting things about me;
