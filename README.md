@@ -23,7 +23,7 @@ Welcome to my GitHub profile, you are awesome.
 I am Victor, a full-stack web developer and blockchain developer.
 
 <div align=center> 
-         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=50&lines=+;No+matter+how+bad+your+day+is;Always+remember+that+it+can+be+worst+😜;So+cheer+up;You+underestimate+your+potential;You+are+truly+awesome;We+can+know+each+other+better;if+you+connect+with+me+on+twitter;" alt="Headline" /> 
+         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=50&lines=+;No+matter+how+bad+your+day+is;Always+remember+that+it+can+be+worst+😜;So+cheer+up;You+underestimate+your+potential;You+are+truly+awesome!;We+can+know+each+other+better;if+you+connect+with+me+on+twitter;" alt="Headline" /> 
      </div> 
 
 Some interesting things about me;
@@ -48,6 +48,6 @@ Some interesting things about me;
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=iamtsquare07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dirambora&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtsquare07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
