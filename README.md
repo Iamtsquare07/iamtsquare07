@@ -3,7 +3,7 @@
 
 
 ### Hi there 👋
-## Why do Java developers wear glasses? Because they don't see sharp😜
+## Why do Javascript developers wear glasses? Because they don't see sharp😜
 <!--
 **Iamtsquare07/iamtsquare07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile, you are awesome.
-I am Victor, a full-stack web developer and blockchain developer.
+Welcome to my GitHub, you are awesome, and I am Victor, a full-stack web and blockchain developer.
 
 <div align=center> 
-         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=50&lines=+;No+matter+how+bad+your+day+is;Always+remember+that+it+can+be+worst+😜;So+cheer+up;You+underestimate+your+potential;You+are+truly+awesome!;We+can+know+each+other+better;if+you+connect+with+me+on+twitter;" alt="Headline" /> 
+         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=50&lines=+;Thanks+for+checking+on+me+today;Remember,+no+matter+how+bad+your+day+is+going;It+could+be+worst+😜;So+cheer+up;You+seriously+underestimate+your+potential;You+are+truly+awesome!+Keep that+in+mind;We+can+know+each+other+better;if+you+connect+with+me+on+twitter;" alt="Headline" /> 
      </div> 
 
 Some interesting things about me;
