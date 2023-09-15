@@ -49,10 +49,10 @@ Some interesting things about me;
 ## 📊 Metrics
 <table>
 	<tr>
-		<td colspan = "2"><a href = "https://iamtsquare07.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtsquare07&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+		<td colspan = "4"><a href = "https://iamtsquare07.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtsquare07&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
 	</tr>
 	<tr>
-		<td colspan = "2"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+		<td colspan = "4"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
 		<td>## LANGUAGES, AND TECHNOLOGIES I WORK WITH</td>
@@ -65,9 +65,9 @@ Some interesting things about me;
 	</tr>
 	<tr>
 		<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
-		<td><img src = "https://skillicons.dev/icons?i=js,react,vuejs,tailwindcss,css" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=js,react,vuejs,css" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=php,nodejs,laravel,firebase,mysql"></td>
-		<td><img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=git,github,bash" ></td>
 	</tr>
 	</table>
 <p>
