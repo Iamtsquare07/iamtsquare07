@@ -52,7 +52,7 @@ Some interesting things about me;
 		<td colspan = "2"><a href = "https://iamtsquare07.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtsquare07&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
 	</tr>
 	<tr>
-		<td colspan = "2"><a href="https://instagram.com/iamtsquare07"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+		<td colspan = "2"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
 		<td</td>
@@ -60,11 +60,11 @@ Some interesting things about me;
 	</tr>
 	</table>
 <p>
-<a href="https://github.com/iamtsquare07/github-readme-streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=iamtsquare07&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=dark" alt="iamtsquare07" />
+<a href="https://iamtsquare07.com"><img src="https://github-readme-stats.vercel.app/api?username=iamtsquare07&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord" alt="iamtsquare07" />
 </p>
 
 
 <p>
-	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&theme=dark" alt="iamtsquare07" /><br>
+	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&theme=nord" alt="iamtsquare07" /><br>
 </p>
