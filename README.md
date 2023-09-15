@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub, you are awesome, and I am Victor, a full-stack web and blockchain developer.
 
 <div align=center> 
-         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=23&center=true&vCenter=true&width=600&height=50&lines=+;Thanks+for+checking+on+me+today;Remember,+no+matter+how+bad+your+day+is+going;It+could+be+worst+😜;So+cheer+up;You+underestimate+your+potential;You+are+truly+awesome!+Keep+that+in+mind;We+can+know+each+other+better;if+you+connect+with+me+on+twitter;" alt="Headline" /> 
+         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=23&center=true&vCenter=true&width=600&height=50&lines=+;Thanks+for+checking+on+me+today;Remember,+no+matter+how+bad+your+day+is+going;It+could+be+worst+😜;Is+time+to+cheer+up;Never+underestimate+your+potential;You+are+truly+awesome!+Keep+that+in+mind;We+can+know+each+other+better;if+you+connect+with+me+on+twitter;" alt="Headline" /> 
      </div> 
 
 Some interesting things about me;
@@ -61,10 +61,10 @@ Some interesting things about me;
 	</table>
 <p>
 <a href="https://iamtsquare07.com"><img src="https://github-readme-stats.vercel.app/api?username=iamtsquare07&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord" alt="iamtsquare07" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" />
 </p>
 
 
 <p>
-	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&theme=nord" alt="iamtsquare07" /><br>
+	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&theme=nord&hide_border=true" alt="iamtsquare07" /><br>
 </p>
