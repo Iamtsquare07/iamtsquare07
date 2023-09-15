@@ -46,7 +46,7 @@ Some interesting things about me;
 </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=iamtsquare&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=iamtsquare07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtsquare07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
