@@ -63,6 +63,6 @@ Some interesting things about me;
 <a href="https://github.com/iamtsquare07/github-readme-streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=iamtsquare07&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a>
 </p>
 ## Stacks
-<br><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtsquare07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=dark" alt="iamtsquare07" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&theme=dark" alt="iamtsquare07" /></p>
