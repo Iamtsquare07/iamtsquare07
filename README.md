@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub, you are awesome, and I am Victor, a full-stack web and blockchain developer.
 
 <div align=center> 
-         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=50&lines=+;Thanks+for+checking+on+me+today;Remember,+no+matter+how+bad+your+day+is+going;It+could+be+worst+😜;So+cheer+up;You+underestimate+your+potential;You+are+truly+awesome!+Keep+that+in+mind;We+can+know+each+other+better;if+you+connect+with+me+on+twitter;" alt="Headline" /> 
+         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=23&center=true&vCenter=true&width=600&height=50&lines=+;Thanks+for+checking+on+me+today;Remember,+no+matter+how+bad+your+day+is+going;It+could+be+worst+😜;So+cheer+up;You+underestimate+your+potential;You+are+truly+awesome!+Keep+that+in+mind;We+can+know+each+other+better;if+you+connect+with+me+on+twitter;" alt="Headline" /> 
      </div> 
 
 Some interesting things about me;
