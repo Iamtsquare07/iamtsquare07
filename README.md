@@ -55,8 +55,19 @@ Some interesting things about me;
 		<td colspan = "2"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
+		<td>## LANGUAGES, AND TECHNOLOGIES I WORK WITH</td>
+	</tr>
+	<tr>
+		<td>Github Contributions</td>
+		<td>Front End</td>
+		<td>Backend End</td>
+		<td>Version Control</td>
+	</tr>
+	<tr>
 		<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
-		<td><img src = "https://skillicons.dev/icons?i=js,react,php,tailwindcss,git,github,gitlab,gitbucket,bash,vscode,codepen,docker,aws" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=js,react,vuejs,tailwindcss,css" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=php,nodejs,laravel,firebase,mysql"></td>
+		<td><img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash" ></td>
 	</tr>
 	</table>
 <p>
