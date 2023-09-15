@@ -55,16 +55,14 @@ Some interesting things about me;
 		<td colspan = "2"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
-		<td</td>
-		<td></td>
+		<td<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
+		<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
 	</tr>
 	</table>
 <p>
 <a align="center" href="https://iamtsquare07.com"><img src="https://github-readme-stats.vercel.app/api?username=iamtsquare07&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=nord"></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&line_height=40&theme=nord&hide_border=true" alt="iamtsquare07" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&line_height=40&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" />
 </p>
 
 
