@@ -55,7 +55,7 @@ Some interesting things about me;
 		<td colspan = "4"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
-		<td>## LANGUAGES, AND TECHNOLOGIES I WORK WITH</td>
+		<td colspan = "4"><h2> LANGUAGES, AND TECHNOLOGIES I WORK WITH</h2></td>
 	</tr>
 	<tr>
 		<td>Github Contributions</td>
@@ -68,6 +68,12 @@ Some interesting things about me;
 		<td><img src = "https://skillicons.dev/icons?i=js,react,vuejs,css" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=php,nodejs,laravel,firebase,mysql"></td>
 		<td><img src = "https://skillicons.dev/icons?i=git,github,bash" ></td>
+	</tr>
+	<tr>
+		<td colspan = "4">Blockchain And Web3</td>
+	</tr>
+	<tr>
+		<td colspan = "4"><img src = "https://skillicons.dev/icons?i=solidity,infura,web3,ethereum,bitcoin,solana" ></td>
 	</tr>
 	</table>
 <p>
