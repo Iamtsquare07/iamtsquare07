@@ -64,5 +64,5 @@ Some interesting things about me;
 </p>
 ## Stacks
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=dark" alt="iamtsquare07" /></p>
-
+<br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&theme=dark" alt="iamtsquare07" /></p>
