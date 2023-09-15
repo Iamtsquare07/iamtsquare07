@@ -73,7 +73,7 @@ Some interesting things about me;
 		<td colspan = "4">Blockchain And Web3</td>
 	</tr>
 	<tr>
-		<td colspan = "4"><img src = "https://skillicons.dev/icons?i=solidity,electron,ipfs,remix,solidjs,webpack" ></td>
+		<td colspan = "4"><img src = "https://skillicons.dev/icons?i=solidity,electron,ipfs,remix,webpack" ></td>
 	</tr>
 	</table>
 <p>
