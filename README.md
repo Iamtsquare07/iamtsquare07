@@ -66,7 +66,7 @@ Some interesting things about me;
 	<tr>
 		<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
 		<td><img src = "https://skillicons.dev/icons?i=js,react,vuejs,css" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=php,nodejs,laravel,firebase,MySQL,docker"></td>
+		<td><img src = "https://skillicons.dev/icons?i=php,nodejs,laravel,firebase,mysQL,docker"></td>
 		<td><img src = "https://skillicons.dev/icons?i=git,github,bash" ></td>
 	</tr>
 	<tr>
