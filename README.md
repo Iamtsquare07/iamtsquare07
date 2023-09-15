@@ -55,7 +55,7 @@ Some interesting things about me;
 		<td colspan = "2"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
-		<td colspan = "2><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
+		<td colspan = "2"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
 	</tr>
 	</table>
 <p>
