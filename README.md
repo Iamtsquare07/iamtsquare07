@@ -60,9 +60,11 @@ Some interesting things about me;
 	</tr>
 	</table>
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&theme=nord&hide_border=true" alt="iamtsquare07" />
 <a href="https://iamtsquare07.com"><img src="https://github-readme-stats.vercel.app/api?username=iamtsquare07&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&line_height=20&theme=nord&hide_border=true" alt="iamtsquare07" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&line_height=20&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" />
 </p>
 
 
