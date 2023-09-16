@@ -58,22 +58,22 @@ Some interesting things about me;
 		<td colspan = "4"><h2> LANGUAGES, AND TECHNOLOGIES I WORK WITH</h2></td>
 	</tr>
 	<tr>
-		<td>Contributions</td>
 		<td>Frontend</td>
 		<td>Backend</td>
+		<td>Blockchain And Web3</td>
 		<td>Version Control</td>
 	</tr>
 	<tr>
-		<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
 		<td><img src = "https://skillicons.dev/icons?i=js,react,vue,css" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=php,nodejs,laravel,firebase,mysql,docker"></td>
+		<td colspan = "4"><img src = "https://skillicons.dev/icons?i=solidity,electron,ipfs,remix,webpack" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=git,github,bash" ></td>
 	</tr>
 	<tr>
-		<td colspan = "4">Blockchain And Web3</td>
+		<td colspan = "4">Contributions</td>
 	</tr>
 	<tr>
-		<td colspan = "4"><img src = "https://skillicons.dev/icons?i=solidity,electron,ipfs,remix,webpack" ></td>
+		<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
 	</tr>
 	</table>
 <p>
