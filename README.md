@@ -38,34 +38,34 @@ Some interesting things about me;
 ## Let's Connect
 <p align="left">
 <a href="https://twitter.com/Iamtsquare07">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
 </a>
 
 <a href="https://www.linkedin.com/in/victor-tyavbee/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
 </a>
 </p>
 
 ## 📊 Metrics
 <table>
 	<tr>
-		<td colspan = "4"><a href = "https://iamtsquare07.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtsquare07&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+		<td colspan = "4"><a href = "https://iamtsquare07.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtsquare07&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="iamtsquare07" /></a></td>
 	</tr>
 	<tr>
-		<td colspan = "4"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+		<td colspan = "4"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" alt="iamtsquare07" /></a></td>
 	</tr>
 	<tr>
 		<td colspan = "4"><h2> LANGUAGES, AND TECHNOLOGIES I WORK WITH</h2></td>
 	</tr>
 	<tr>
-		<td>Github Contributions</td>
-		<td>Front End</td>
-		<td>Backend End</td>
+		<td>Contributions</td>
+		<td>Frontend</td>
+		<td>Backend</td>
 		<td>Version Control</td>
 	</tr>
 	<tr>
 		<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
-		<td><img src = "https://skillicons.dev/icons?i=js,react,vuejs,css" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=js,react,vue,css" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=php,nodejs,laravel,firebase,mysql,docker"></td>
 		<td><img src = "https://skillicons.dev/icons?i=git,github,bash" ></td>
 	</tr>
@@ -77,12 +77,8 @@ Some interesting things about me;
 	</tr>
 	</table>
 <p>
-<a align="center" href="https://iamtsquare07.com"><img src="https://github-readme-stats.vercel.app/api?username=iamtsquare07&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=nord"></a>
+<a href="https://iamtsquare07.com"><img src="https://github-readme-stats.vercel.app/api?username=iamtsquare07&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=nord" alt="iamtsquare07"/></a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtsquare07&theme=nord&hide_border=true" alt="iamtsquare07" />
 </p>
 
-
-<p>
-	<br>
-</p>
