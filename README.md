@@ -49,10 +49,10 @@ Some interesting things about me;
 ## 📊 Metrics
 <table>
 	<tr>
-		<td colspan = "4"><a href = "https://iamtsquare07.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtsquare07&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="iamtsquare07" /></a></td>
+		<td colspan = "4"><a href = "https://iamtsquare07.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtsquare07&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=gold" alt="iamtsquare07" /></a></td>
 	</tr>
 	<tr>
-		<td colspan = "4"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" alt="iamtsquare07" /></a></td>
+		<td colspan = "4"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nordf&color=gold&no-frame=true" alt="iamtsquare07" /></a></td>
 	</tr>
 	<tr>
 		<td colspan = "4"><h2> LANGUAGES, AND TECHNOLOGIES I WORK WITH</h2></td>
