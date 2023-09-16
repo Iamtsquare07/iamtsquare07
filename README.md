@@ -66,14 +66,14 @@ Some interesting things about me;
 	<tr>
 		<td><img src = "https://skillicons.dev/icons?i=js,react,vue,css" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=php,nodejs,laravel,firebase,mysql,docker"></td>
-		<td colspan = "4"><img src = "https://skillicons.dev/icons?i=solidity,electron,ipfs,remix,webpack" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=solidity,electron,ipfs,remix,webpack" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=git,github,bash" ></td>
 	</tr>
 	<tr>
-		<td colspan = "4">Contributions</td>
+		<td colspan="4">Contributions</td>
 	</tr>
 	<tr>
-		<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
+		<td colspan="4" rowspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
 	</tr>
 	</table>
 <p>
