@@ -52,7 +52,7 @@ Some interesting things about me;
 		<td colspan = "4"><a href = "https://iamtsquare07.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtsquare07&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=fff" alt="iamtsquare07" /></a></td>
 	</tr>
 	<tr>
-		<td colspan = "4"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nordf&color=black&no-frame=true" alt="iamtsquare07" /></a></td>
+		<td colspan = "4"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&color=gold&no-frame=true" alt="iamtsquare07" /></a></td>
 	</tr>
 	<tr>
 		<td colspan = "4"><h2> LANGUAGES, AND TECHNOLOGIES I WORK WITH</h2></td>
@@ -70,7 +70,7 @@ Some interesting things about me;
 		<td><img src = "https://skillicons.dev/icons?i=git,github,bash" ></td>
 	</tr>
 	<tr>
-		<td colspan="4">Contributions</td>
+		<td colspan="4"><h2></h2>GITHUB CONTRIBUTIONS</h2></td>
 	</tr>
 	<tr>
 		<td colspan="4" rowspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
