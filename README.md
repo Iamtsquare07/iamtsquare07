@@ -26,13 +26,13 @@ Welcome to my GitHub, you are awesome, and I am Victor, a full-stack web and blo
      </div> 
 
 Some interesting things about me;
-- 📚 Always open to new knowledge, I believe it's the only way to achieve excellence.
+- 📚 Continuously welcoming new knowledge; I firmly believe it's the key to attaining excellence.
 - 🕶️ Loves to work in dark mode😎
 - ✊ Open to collaboration on any web or blockchain projects.
-- ⭐ Always curious to learn more.
+- ⭐ Always curious and eager to learn.
 - 🌱 Currently learning Laravel.
 - 🔭 Working on Bitletter web3 app @ app.lifewithcrypto.com (Open to critics and suggestions) 
-- 🫠 Open for work. You will not be disappointed if you hire me.
+- 🫠 Ready for work. You won't be disappointed when you bring me on board.
 - 🙌🏾 Fun Fact: You're not avoiding work; you're letting your code mature.😂
 
 ## Let's Connect
@@ -49,10 +49,12 @@ Some interesting things about me;
 ## 📊 Metrics
 <table>
 	<tr>
-		<td colspan="4"><a href = "https://iamtsquare07.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtsquare07&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=fff" alt="iamtsquare07" /></a></td>
+		<td colspan="4"><a href = "https://iamtsquare07.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtsquare07&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=fff" alt="iamtsquare07" /></a>
+		</td>
 	</tr>
 	<tr>
-		<td colspan="4"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" alt="iamtsquare07" /></a></td>
+		<td colspan="4"><a href="https://iamtsquare07.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=iamtsquare07&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" alt="iamtsquare07" /></a>
+		</td>
 	</tr>
 	<tr>
 		<td colspan = "4"><h2> LANGUAGES, AND TECHNOLOGIES I WORK WITH</h2></td>
@@ -73,7 +75,8 @@ Some interesting things about me;
 		<td colspan="4"><h2></h2>GITHUB CONTRIBUTIONS</h2></td>
 	</tr>
 	<tr>
-		<td colspan="4" rowspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" /></td>
+		<td colspan="4" rowspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtsquare07&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="iamtsquare07" />
+		</td>
 	</tr>
 	</table>
 <p>
