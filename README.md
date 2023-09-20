@@ -2,8 +2,9 @@
 --| --| --| --|
 
 
-### Hi there 👋
-## Why do Javascript developers wear glasses? Because they don't see sharp😜
+## Hi there 👋
+
+### Why do Javascript developers wear glasses? Because they don't see sharp😜
 <!--
 **Iamtsquare07/iamtsquare07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
