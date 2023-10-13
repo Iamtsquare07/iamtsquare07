@@ -58,13 +58,13 @@ Some interesting things about me;
 		</td>
 	</tr>
 	<tr>
-		<td colspan = "4"><h2> LANGUAGES, AND TECHNOLOGIES I WORK WITH</h2></td>
+		<td colspan = "4"><h2> LANGUAGES, AND TECHNOLOGIES I USE</h2></td>
 	</tr>
 	<tr>
 		<td>Frontend</td>
 		<td>Backend</td>
 		<td>Blockchain And Web3</td>
-		<td>Version Control</td>
+		<td>DevOps</td>
 	</tr>
 	<tr>
 		<td><img src = "https://skillicons.dev/icons?i=js,react,vue,css" ></td>
