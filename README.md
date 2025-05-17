@@ -4,7 +4,6 @@
 
 ## Hi there 👋
 
-### Why do Javascript developers wear glasses? Because they don't see sharp😜
 <!--
 **Iamtsquare07/iamtsquare07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub, you are awesome, and I am Victor, a full-stack web and blockchain developer.
+Welcome to my GitHub. I am Victor, a full-stack web and blockchain developer.
 
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=23&center=true&vCenter=true&width=600&height=50&lines=+;Thanks+for+checking+on+me+today;Remember,+no+matter+how+bad+your+day+is+going;It+could+be+worst+😜;Is+time+to+cheer+up;Never+underestimate+your+potential;You+are+truly+awesome!+Keep+that+in+mind;We+can+know+each+other+better;if+you+connect+with+me+on+twitter;" alt="Headline" /> 
@@ -33,7 +32,7 @@ Some interesting things about me;
 - ⭐ Always curious and eager to learn.
 - 🌱 Currently learning Laravel.
 - 🔭 Working on Bitletter web3 app @ app.lifewithcrypto.com (Open to critics and suggestions) 
-- 🫠 Ready for work. You won't be disappointed when you bring me on board.
+- 🫠 Open for work. You won't be disappointed when you bring me on board.
 - 🙌🏾 Fun Fact: You're not avoiding work; you're letting your code mature.😂
 
 ## Let's Connect
